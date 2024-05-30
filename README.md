@@ -23,5 +23,5 @@ This repo is created based on a Instagram Reel: [Check and Follow him!](https://
 
 ## Thoughts/Comments?
 
-Please don't hesitate to reach me on my [Contact Us](mailto:samahdeveloper97@gmail.com?subject=Beverage%20Chooser%20Repo&body=Dear%20Samah,%0A%0AI%20have%20the%20below%20comment%20on%20your%20repo%0A%0A ) for any comments or thoughts :) 
+Please don't hesitate to reach me on my [Contact Us](mailto:samahdeveloper97@gmail.com?subject=Beverage%20Chooser%20Repo&body=Dear%20Samah,%0A%0AI%20have%20the%20below%20comment%20on%20your%20repo%0A%0A: ) for any comments or thoughts :) 
 
