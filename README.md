@@ -20,3 +20,8 @@ where you can select a beverage based on your preferences and mood!
 ## References
 
 This repo is created based on a Instagram Reel: [Check and Follow him!](https://www.instagram.com/reel/C7hnnrXAnot/)
+
+## Thoughts/Comments?
+
+Please don't hesitate to reach me on my [Contact Us](mailto:samahdeveloper97@gmail.com?subject=Beverage%20Chooser%20Repo) for any comments or thoughts :) 
+
