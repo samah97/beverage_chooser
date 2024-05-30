@@ -19,4 +19,4 @@ where you can select a beverage based on your preferences and mood!
 
 ## References
 
-This repo is created based on a Instagram Reel: [Check and Follow him!] https://www.instagram.com/reel/C7hnnrXAnot/
+This repo is created based on a Instagram Reel: [Check and Follow him!](https://www.instagram.com/reel/C7hnnrXAnot/)
